@@ -23,3 +23,9 @@ El projecte ha de treballar diferents disciplines de cada assignatura:
 - **Sistemes**: 
 
 - **Anglès**: 
+
+## Equips
+
+Victors i Hector
+Christopher i Samantha
+Sabrina i Javi Lopez
